@@ -32,7 +32,7 @@ Plan (or Plan Sum) の線量指標の値を抽出し、任意の線量制約と�
 
 ### 設定方法
 
-- [constraints_summarizer_settings.csv]() ファイルで以下のパスを指定可能です。
+- [constraints_summarizer_settings.csv](https://github.com/akiaji-k/constraints_summarizer_esapi_v15_5/blob/main/constraints_summarizer_settings.csv) ファイルで以下のパスを指定可能です。
 
   - Database ファイルのパス
 
@@ -40,9 +40,9 @@ Plan (or Plan Sum) の線量指標の値を抽出し、任意の線量制約と�
 
   - 「ファイルを出力する」ディレクトリの初期値
 
-- [ReferenceFileDB.json]() ファイルは、スクリプト実行に必要となる参照線量制約ファイルを、患者 ID, Course 毎に保存しています。
+- [ReferenceFileDB.json](https://github.com/akiaji-k/constraints_summarizer_esapi_v15_5/blob/main/ReferenceFileDB.json) ファイルは、スクリプト実行に必要となる参照線量制約ファイルを、患者 ID, Course 毎に保存しています。
 
-- [肺42Gy_プランニングシート.xlsx]() は参照線量制約ファイルのサンプルで、これを書き換えることで任意の線量制約で解析することができます。
+- [肺42Gy_プランニングシート.xlsx](https://github.com/akiaji-k/constraints_summarizer_esapi_v15_5/blob/main/%E8%82%BA42Gy_%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B7%E3%83%BC%E3%83%88.xlsx) は参照線量制約ファイルのサンプルで、これを書き換えることで任意の線量制約で解析することができます。
 
 
 
@@ -52,5 +52,5 @@ MIT ライセンスで公開されています。
 
 本ソフトウェアで発生したことについて、いかなる責任も負いません。
 
-詳細は [LICENSE]() をご確認ください。
+詳細は [LICENSE](https://github.com/akiaji-k/constraints_summarizer_esapi_v15_5/blob/main/LICENSE) をご確認ください。
 
