@@ -1,0 +1,22 @@
+/*  "患者ID - (Course, 制約ファイルの参照元)" を対応させるデータベース
+id: 患者ID
+course: Course名。あるCourse毎に制約ファイルを紐づける。
+file: 制約ファイルの参照元
+！！　スクリプトの動作が重くなってきたら、以下のデータを削除
+もしくはファイルを別名保存してください。紐づけが初期化されます。　！！*/
+{
+  "patients": {
+    "20240111": [
+      {
+        "course": "IMRT",
+        "file": "C:\\Users\\vms\\Desktop\\miyata_workdir\\esapi_dir\\constraints\\ConstraintsReference.xlsx"
+      }
+    ],
+    "00001111": [
+      {
+        "course": "VMAT",
+        "file": "C:\\Users\\vms\\Desktop\\miyata_workdir\\esapi_dir\\constraints\\ConstraintsReference.xlsx"
+      }
+    ]
+  }
+}
