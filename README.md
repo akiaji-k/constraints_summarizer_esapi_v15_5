@@ -27,7 +27,7 @@ An overview of the process is given below.
 5. (You can change the analyzed plan by clicking on ‘Change Plan’ at the bottom of the window, and change the dose constraints reference file by clicking on ‘Change Constrains Sheet’.) 
 
 6. Click on ‘Add Summary Sheet’ to output an Excel file.
-
+<img src="./images/constraints_summarizer_ouput.jpg" style="zoom:30%;"/>
 
 
 ### Setup
