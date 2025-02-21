@@ -27,7 +27,7 @@ Plan (or Plan Sum) の線量指標の値を抽出し、任意の線量制約と�
 5. （実行画面下部の "Change Plan" をクリックして解析対象プランの変更、"Change Constrains Sheet" をクリックして参照する線量制約ファイルを変更できます。）
 
 6. "Add Summary Sheet" をクリックし、エクセルファイルを出力します。
-
+<img src="./images/constraints_summarizer_ouput.jpg" style="zoom:30%;"/>
 
 
 ### 設定方法
