@@ -32,7 +32,7 @@ An overview of the process is given below.
 
 ### Setup
 
-- The following paths can be defined in the [constraints_summarizer_settings.csv]() file.
+- The following paths can be defined in the [constraints_summarizer_settings.csv](https://github.com/akiaji-k/constraints_summarizer_esapi_v15_5/blob/main/constraints_summarizer_settings.csv) file.
 
   - Database file path
 
@@ -40,9 +40,9 @@ An overview of the process is given below.
 
   - Default directory for output files 
 
-- The [ReferenceFileDB.json]() file stores the dose constraints reference files required for script execution, for each Patient ID, Course.
+- The [ReferenceFileDB.json](https://github.com/akiaji-k/constraints_summarizer_esapi_v15_5/blob/main/ReferenceFileDB.json) file stores the dose constraints reference files required for script execution, for each Patient ID, Course.
 
-- [Lung42Gy_Planning_sheet.xlsx]() is a example dose constraints reference file, which can be rewritten to analyze with any dose constraint.
+- [Lung42Gy_Planning_sheet.xlsx](https://github.com/akiaji-k/constraints_summarizer_esapi_v15_5/blob/main/%E8%82%BA42Gy_%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B7%E3%83%BC%E3%83%88.xlsx) is a example dose constraints reference file, which can be rewritten to analyze with any dose constraint.
 
 
 
@@ -52,5 +52,5 @@ Released under the MIT license.
 
 No responsibility is assumed for anything that occurs with this software.
 
-See [LICENSE](https://github.com/akiaji-k/plan_checker_gui_esapi_v15_5/blob/main/LICENSE) for further details.
+See [LICENSE](https://github.com/akiaji-k/constraints_summarizer_esapi_v15_5/blob/main/LICENSE) for further details.
 
